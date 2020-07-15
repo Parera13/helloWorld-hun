@@ -18,7 +18,7 @@ body{
     max-width: 800px;
     width: 90%;
     margin: 0 auto;
-    padding: 20px 80px 50px 80px;
+    padding: 20px 110px 50px 110px;
     box-shadow: 10px 10px 10px rgb(9, 9, 9);
     
 }
@@ -41,6 +41,7 @@ p, ul{
     
     color: rgb(75, 74, 74);
     font-size: 15px;
+    text-align: justify;
 }
 span{
     color: hotpink;
